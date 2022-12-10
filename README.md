@@ -1,4 +1,5 @@
 # Binary
+## By Ethan Coles
 ### What is binary?
 #### **Basic** Info
 * It is a number system
